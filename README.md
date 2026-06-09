@@ -50,7 +50,7 @@ This produces **non-interactive** animations or edited frames for a static scene
   <a href="images/sd_controlnet.png">
     <img src="images/sd_controlnet.png" width="600" alt="sd_controlnet image">
   </a>
-  <figcaption>Pix2PixHD's predicted Emmission from the step response being input to ControlNet</figcaption>
+  <figcaption>Pix2PixHD's predicted Emission from the step response being input to ControlNet</figcaption>
 </figure>
 
 
@@ -77,7 +77,7 @@ This pipeline can also bootstrap a reinforcement learning (RL) agent: by using P
 
 ## Sample Outputs
 
-Below are clickable thumbnails from the `samples/` directory. Images were captures with an industrial camera, and may appear dull to the human eye. Video the Reality Transform captured with conventional cameras is available on social media, e.g. [Reddit](https://www.reddit.com/r/PoliePals/) and [X](https://x.com/poliebotics).
+Below are clickable thumbnails from the `samples/` directory. Images were captured with an industrial camera, and may appear dull to the human eye. Video of the Reality Transform captured with conventional cameras is available on social media, e.g. [Reddit](https://www.reddit.com/r/PoliePals/) and [X](https://x.com/poliebotics).
 
 
 Click any image to enlarge:
